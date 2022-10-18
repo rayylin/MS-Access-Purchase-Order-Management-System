@@ -31,4 +31,14 @@ The data we input will be automatically update to tables, and we do not need to 
 
 ![image](https://user-images.githubusercontent.com/58899897/196319991-52244824-473c-455a-b3fc-6402f366ef59.png)
 
+We could use query design and report wizard to generate report
+
+![image](https://user-images.githubusercontent.com/58899897/196320464-b1801a7e-4d83-4530-ad00-7fa33d06d253.png)
+
+![image](https://user-images.githubusercontent.com/58899897/196320730-4f0f2c29-a2af-45b3-9e6c-084fd70b1b7a.png)
+
+![image](https://user-images.githubusercontent.com/58899897/196320875-3dfb2430-ac6e-411d-94e0-9da14c12cbee.png)
+
+
+
 
